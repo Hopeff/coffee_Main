@@ -1,0 +1,92 @@
+.catalog {
+    height: 3700px;
+    background-color:#C3986B;
+
+}
+.c_catalog {
+    font-family: Sofia;
+    font-size: 96px;
+    color: #56361F;
+    margin-top: 29px;
+}
+.c_drinks {
+    font-size: 72px;
+    font-family: Fauna One;
+    color: white;
+    margin-top: 144px;
+}
+
+.block11 {
+    background-image: url("/src/assets/catalog/Rectangle 10.png");
+    height: 222px;
+    width: 240px;
+    margin-right: 75px;
+    margin-top:100px;
+    display: inline-flex;
+    background-repeat: no-repeat;
+}
+
+.block12 {
+    background-image: url("/src/assets/catalog/Rectangle 13.png");
+    display: inline-flex;
+    height: 222px;
+    width: 240px;
+    margin-left: 75px;
+    margin-top:100px;
+    background-repeat: no-repeat;
+}
+
+.block13 {
+    background-image: url("/src/assets/catalog/Rectangle 12.png");
+    display:inline-flex;
+    height: 222px;
+    width: 240px;
+    margin-left: 100px;
+    margin-top:100px;
+    background-repeat: no-repeat;
+
+}.block14 {
+    background-image: url("/src/assets/catalog/latte.png");
+     height: 270px;
+     width: 240px;
+     margin-right: 75px;
+     margin-top:100px;
+     padding-left: 60px;
+     display: inline-flex;
+     background-repeat: no-repeat;
+}
+
+.block15 {
+    background-image: url("/src/assets/catalog/Mocaacino.png");
+    display: inline-flex;
+    height: 270px;
+    width: 240px;
+    margin-left: 1px;
+    margin-top:100px;
+    background-repeat: no-repeat;
+}
+
+.block16 {
+    background-image: url("/src/assets/catalog/Glace.png");
+    display:inline-flex;
+    height: 270px;
+    width: 240px;
+    margin-left: 100px;
+    margin-top:100px;
+    background-repeat: no-repeat;
+}
+
+.coffee_text {
+    font-size: 48px;
+    font-family: Fauna One;
+    color: white;
+    text-align: center;
+    margin-top: 300px;
+}
+
+.coffee_l {
+    margin-top: 200px;
+}
+
+
+
